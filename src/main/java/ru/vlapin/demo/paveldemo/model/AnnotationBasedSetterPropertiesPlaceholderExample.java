@@ -22,7 +22,7 @@ import org.springframework.validation.annotation.Validated;
 @Data
 @Validated
 @ConfigurationProperties("my-properties")
-public class AnnotationBasedSetterPropertiesPlaceholderExampleImpl {
+public class AnnotationBasedSetterPropertiesPlaceholderExample {
 
   /**
    * My hostname
